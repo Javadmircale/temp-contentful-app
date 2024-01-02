@@ -5,7 +5,7 @@ const Projects = () => {
   if (loading) {
     return (
       <section className="projects">
-        <h1>Loading...</h1>
+        <h3>Loading...</h3>
       </section>
     );
   }
